@@ -1,0 +1,1 @@
+To start this project, first go to backend and run `node index.js` to start the backend
