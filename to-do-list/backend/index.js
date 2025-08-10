@@ -7,6 +7,7 @@ const app = express();
 
 // conexiune front-back
 app.use(cors());
+app.use(cors({ origin: 'http://localhost:5173/' }));
 // parseaza request-uri
 app.use(express.json());
 

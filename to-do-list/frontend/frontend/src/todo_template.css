@@ -1,0 +1,29 @@
+#entire_to-do_box {
+    display: flex;
+    align-items: center;
+    margin: 1%;
+    background-color: #748DAE;
+    border-radius: 10px;
+}
+
+#text_part_of_to-do {
+    margin: 1%;
+    width: 70%;
+    border-radius: 10px;
+    padding: 1%;
+}
+
+#to-do_title {
+    font-size: 18px;
+}
+
+#to-do_description {
+    font-size: 16px;
+}
+
+#delete_to-do {
+  font-size: 50px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
